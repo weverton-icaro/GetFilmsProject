@@ -1,6 +1,6 @@
 <h1 align="center"> PROJETO DE BUSCA DE FILMES </h1>
 
-<h3> Projeto desenvolvido para teste, visando a criação, listagem, atualização e exclusão de veículos e testes unitários utilizando Mocha. </h3>
+<h3> Projeto desenvolvido, visando a obtenção de listagem de filmes derivados de outras API's. </h3>
 
 <h2>Dependências</h2>
 
@@ -13,7 +13,7 @@
 
 ### clone o projeto
 
-- https://github.com/weverton-icaro/crud-ts-mocha.git
+- https://github.com/weverton-icaro/GetFilmsProject.git
 
 ### instale as dependências
 
@@ -21,7 +21,7 @@
 
 ### configure o banco de dados no arquivo .env
 
-- configuração voltada para utilização do mysql
+- configuração voltada para utilização do banco mysql
 
 ### inicie o servidor
 
